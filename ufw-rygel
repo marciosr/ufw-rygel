@@ -1,0 +1,4 @@
+[rygel]
+title=Multimídia DLNA server
+description=A streaming media server compatible with many DLNA/UPnP clients including the Sony PlayStation 3, Microsoft Xbox 360, smart televisions, DLNA speakers and many smartphones
+ports=65530/tcp|1900/udp
